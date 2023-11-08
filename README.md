@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm currently studying Machine Learning at the university Tübingen. 
+
 <!--
 **JoschkaCBraun/JoschkaCBraun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
